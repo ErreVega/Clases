@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="92e34c07-5ffc-4a62-be0a-df193a789eb2" name="Default Changelist" comment="">
+    <list default="true" id="92e34c07-5ffc-4a62-be0a-df193a789eb2" name="Default Changelist" comment="Nueva actividad 8.5">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actividad 8.4" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad 8.4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actividad 8.4/src/Main8_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad 8.4/src/Main8_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Actividad 8.5/src/Class/Pila.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad 8.5/src/Class/Pila.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,25 +25,65 @@
         <entry file="file://$PROJECT_DIR$/Actividad 8.1/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Actividad 8.1/src/ArrayOrd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="26" column="19" selection-start-line="26" selection-start-column="1" selection-end-line="55" selection-end-column="27" />
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Actividad 8.2/src/MainArray.java">
+        <entry file="file://$PROJECT_DIR$/Actividad 8.5/src/Class/Pila.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Actividad 8.5/src/Class/Cola.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="57" selection-start-line="7" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Actividad 8.5/src/Main/main8_5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Actividad 8.5/src/Class/EstructuraAlmacenamiento.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="118" column="38" lean-forward="true" selection-start-line="118" selection-start-column="38" selection-end-line="118" selection-end-column="38" />
+              <folding>
+                <element signature="e#1048#1049#0" expanded="true" />
+                <element signature="e#1072#1073#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Actividad 8.3/src/clase/ClaseArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2205">
+              <caret line="151" column="28" selection-start-line="151" selection-start-column="28" selection-end-line="151" selection-end-column="28" />
+              <folding>
+                <element signature="e#4807#4808#0" expanded="true" />
+                <element signature="e#4835#4836#0" expanded="true" />
+                <element signature="e#4876#4877#0" expanded="true" />
+                <element signature="e#4910#4911#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,21 +97,40 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Array</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Actividad 8.2/src/MainArray.java" />
+        <option value="$PROJECT_DIR$/Actividad 8.3/src/Array.java" />
+        <option value="$PROJECT_DIR$/Actividad 8.3/src/ClaseArray.java" />
+        <option value="$PROJECT_DIR$/Actividad 8.3/src/clase/ClaseArray.java" />
+        <option value="$PROJECT_DIR$/Actividad 8.4/src/Main8_4.java" />
+        <option value="$PROJECT_DIR$/Actividad 8.5/src/Class/EstructuraAlmacenamiento.java" />
+        <option value="$PROJECT_DIR$/Actividad 8.5/src/Main/main8_5.java" />
+        <option value="$PROJECT_DIR$/Actividad 8.5/src/Class/Cola.java" />
+        <option value="$PROJECT_DIR$/Actividad 8.5/src/Class/Pila.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="289" />
-    <option name="y" value="115" />
-    <option name="width" value="1073" />
-    <option name="height" value="616" />
+    <option name="y" value="25" />
+    <option name="width" value="1067" />
+    <option name="height" value="875" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -74,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,17 +151,6 @@
             <path>
               <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
               <item name="Clases" type="462c0819:PsiDirectoryNode" />
-              <item name="Actividad 8.1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Clases" type="462c0819:PsiDirectoryNode" />
-              <item name="Actividad 8.1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Clases" type="462c0819:PsiDirectoryNode" />
               <item name="Actividad 8.2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -102,22 +158,75 @@
               <item name="Clases" type="462c0819:PsiDirectoryNode" />
               <item name="Actividad 8.2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
+              <item name="Actividad 8.3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
+              <item name="Actividad 8.3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
+              <item name="Actividad 8.3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="clase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
+              <item name="Actividad 8.4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
+              <item name="Actividad 8.4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
+              <item name="Actividad 8.5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
+              <item name="Actividad 8.5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
+              <item name="Actividad 8.5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Clases" type="462c0819:PsiDirectoryNode" />
+              <item name="Actividad 8.5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550163870514" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550857195372" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,10 +240,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainArray">
+  <component name="RunManager" selected="Application.main8_5">
+    <configuration name="ClaseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clase.ClaseArray" />
+      <module name="Actividad 8.3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Actividad 8.1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main8_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main8_4" />
+      <module name="Actividad 8.4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,8 +269,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main8_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.main8_5" />
+      <module name="Actividad 8.5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main8_5" />
+        <item itemvalue="Application.Main8_4" />
+        <item itemvalue="Application.ClaseArray" />
         <item itemvalue="Application.MainArray" />
         <item itemvalue="Application.Main" />
       </list>
@@ -165,12 +304,53 @@
       <updated>1550159721708</updated>
       <workItem from="1550159729876" duration="93000" />
       <workItem from="1550159949224" duration="1299000" />
-      <workItem from="1550162485276" duration="1302000" />
+      <workItem from="1550162485276" duration="1464000" />
+      <workItem from="1550499551229" duration="6575000" />
+      <workItem from="1550672340585" duration="11831000" />
+      <workItem from="1550763290529" duration="5596000" />
+      <workItem from="1550771095374" duration="90000" />
+      <workItem from="1550845141622" duration="9546000" />
     </task>
+    <task id="LOCAL-00001" summary="Nueva actividad 8.2">
+      <created>1550163937820</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550163937820</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Nueva actividad 8.2">
+      <created>1550684196430</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550684196430</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Nueva actividad 8.3">
+      <created>1550684677096</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550684677096</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Nueva actividad 8.3">
+      <created>1550684845403</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550684845403</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Nueva actividad 8.5">
+      <created>1550856235888</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550856235888</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2694000" />
+    <option name="totallyTimeSpent" value="36494000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -182,29 +362,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1533" height="875" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1600" height="875" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25823808" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4923717" visible="true" weight="0.26319176" />
+      <window_info id="Structure" order="1" sideWeight="0.5076283" side_tool="true" visible="true" weight="0.26319176" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32871014" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32871014" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.95839113" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38696256" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32871014" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32871014" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4993565" weight="0.32871014" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32871014" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.7600555" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5006435" side_tool="true" weight="0.32871014" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32871014" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -218,6 +397,12 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nueva actividad 8.2" />
+    <MESSAGE value="Nueva actividad 8.3" />
+    <MESSAGE value="Nueva actividad 8.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nueva actividad 8.5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Desktop/ArrayOrd.java" />
@@ -234,24 +419,91 @@
     <entry file="file://$PROJECT_DIR$/Actividad 8.1/Actividad 8.1.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Actividad 8.2/Actividad 8.2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Actividad 8.3/Actividad 8.3.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Actividad 8.4/Actividad 8.4.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Clases.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Actividad 8.1/src/ArrayOrd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="1" selection-end-line="55" selection-end-column="27" />
+        <state relative-caret-position="540">
+          <caret line="36" column="10" selection-start-line="35" selection-start-column="6" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Actividad 8.2/src/MainArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Actividad 8.4/src/Main8_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Actividad 8.1/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="44" />
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Actividad 8.2/src/MainArray.java">
+    <entry file="file://$PROJECT_DIR$/Actividad 8.3/src/clase/ClaseArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        <state relative-caret-position="2205">
+          <caret line="151" column="28" selection-start-line="151" selection-start-column="28" selection-end-line="151" selection-end-column="28" />
+          <folding>
+            <element signature="e#4807#4808#0" expanded="true" />
+            <element signature="e#4835#4836#0" expanded="true" />
+            <element signature="e#4876#4877#0" expanded="true" />
+            <element signature="e#4910#4911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Actividad 8.5/src/Main/main8_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Actividad 8.5/src/Class/EstructuraAlmacenamiento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="118" column="38" lean-forward="true" selection-start-line="118" selection-start-column="38" selection-end-line="118" selection-end-column="38" />
+          <folding>
+            <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Actividad 8.5/src/Class/Cola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="57" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Actividad 8.5/src/Class/Pila.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

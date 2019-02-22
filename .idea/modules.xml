@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Actividad 8.1/Actividad 8.1.iml" filepath="$PROJECT_DIR$/Actividad 8.1/Actividad 8.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Actividad 8.2/Actividad 8.2.iml" filepath="$PROJECT_DIR$/Actividad 8.2/Actividad 8.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad 8.3/Actividad 8.3.iml" filepath="$PROJECT_DIR$/Actividad 8.3/Actividad 8.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad 8.4/Actividad 8.4.iml" filepath="$PROJECT_DIR$/Actividad 8.4/Actividad 8.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad 8.5/Actividad 8.5.iml" filepath="$PROJECT_DIR$/Actividad 8.5/Actividad 8.5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clases.iml" filepath="$PROJECT_DIR$/Clases.iml" />
     </modules>
   </component>
