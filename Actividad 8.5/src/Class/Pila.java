@@ -2,9 +2,9 @@
 package Class;
 /**
  *
- * Estructura Pila que hereda todos los metodos de construccion y gestion de la estructura de cola, excepto aquel que introduce
- * datos en la estructura, ya que en este caso, los valores se introduciran en la primera posicion desplazando a los que ya hubiera.
+ * Estructura Pila en la que se introducen los valores en la primera posicion, desplazando a los que ya estubieran una posicion hacia abajo.
  *
+ * Cuando se solicite un elemento siempre saldrá el primer elemento y el resto avanzaran una posicion.
  * @author Rubén Vega
  * @since 22/02/2019
  *
