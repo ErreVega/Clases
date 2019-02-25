@@ -4,12 +4,8 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92e34c07-5ffc-4a62-be0a-df193a789eb2" name="Default Changelist" comment="Nueva actividad 8.5">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="92e34c07-5ffc-4a62-be0a-df193a789eb2" name="Default Changelist" comment="Start">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad 8.4" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad 8.4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad 8.4/src/Main8_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad 8.4/src/Main8_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Actividad 8.5/src/Class/Pila.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad 8.5/src/Class/Pila.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -151,17 +147,6 @@
             <path>
               <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
               <item name="Clases" type="462c0819:PsiDirectoryNode" />
-              <item name="Actividad 8.2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Clases" type="462c0819:PsiDirectoryNode" />
-              <item name="Actividad 8.2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Clases" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Clases" type="462c0819:PsiDirectoryNode" />
               <item name="Actividad 8.3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -223,7 +208,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550857195372" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551104458165" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -309,7 +294,7 @@
       <workItem from="1550672340585" duration="11831000" />
       <workItem from="1550763290529" duration="5596000" />
       <workItem from="1550771095374" duration="90000" />
-      <workItem from="1550845141622" duration="9546000" />
+      <workItem from="1550845141622" duration="9797000" />
     </task>
     <task id="LOCAL-00001" summary="Nueva actividad 8.2">
       <created>1550163937820</created>
@@ -346,11 +331,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550856235888</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Nueva actividad 8.3 y 8.4">
+      <created>1550857235283</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1550857235283</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36494000" />
+    <option name="totallyTimeSpent" value="36745000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,8 +356,8 @@
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1600" height="875" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4923717" visible="true" weight="0.26319176" />
-      <window_info id="Structure" order="1" sideWeight="0.5076283" side_tool="true" visible="true" weight="0.26319176" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4913295" visible="true" weight="0.26319176" />
+      <window_info id="Structure" order="1" sideWeight="0.5086705" side_tool="true" visible="true" weight="0.26319176" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -381,7 +373,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4993565" weight="0.32871014" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.7600555" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.7600555" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5006435" side_tool="true" weight="0.32871014" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32871014" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -402,7 +394,8 @@
     <MESSAGE value="Nueva actividad 8.2" />
     <MESSAGE value="Nueva actividad 8.3" />
     <MESSAGE value="Nueva actividad 8.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nueva actividad 8.5" />
+    <MESSAGE value="Nueva actividad 8.3 y 8.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nueva actividad 8.3 y 8.4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Desktop/ArrayOrd.java" />
