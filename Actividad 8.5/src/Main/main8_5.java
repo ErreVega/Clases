@@ -11,7 +11,8 @@ public class main8_5 {
         int opcion, valor;
 
         /**
-         * Se declara el objeto cola, que es el metodo padre. Despues se iniciara este obejto a Cola o Pila(clase heredada)
+         * Se declara el objeto cola como clase Estructura de almacenamiento, la cual despues segun se elija
+         * se iniciara y construira como Cola o Pila (clases heredadas).
          */
         EstructuraAlmacenamiento objeto1 = new EstructuraAlmacenamiento();
 
