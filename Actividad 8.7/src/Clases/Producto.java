@@ -6,18 +6,36 @@ public class Producto {
     private String descripccion;
     private float precio;
 
-    private static int numProductorNuevo;
+
 
 
     public Producto(){
-        this.numProducto = numProductorNuevo++;
+        this.numProducto = 0;
         this.descripccion ="";
         this.precio = 0;
     }
+    public Producto(int numProducto){
+        this.numProducto = numProducto;
+        this.descripccion ="";
+        this.precio = 0;
+    }
+    public Producto(int numProducto, float precio){
+        this.numProducto = numProducto;
+        this.descripccion ="";
+        this.precio = precio;
+    }
     public Producto(String descripccion, float precio){
-        this.numProducto = numProductorNuevo++;
         this.descripccion = descripccion;
         this.precio = precio;
+    }
+    public Producto(int numProducto, String descripccion, float precio){
+        this.numProducto = numProducto;
+        this.descripccion = descripccion;
+        this.precio = precio;
+    }
+
+    public void setNumProducto(int numProducto) {
+        this.numProducto = numProducto;
     }
 
     public int getNumProducto() {
@@ -38,5 +56,10 @@ public class Producto {
 
     public void setDescripccion(String descripccion) {
         this.descripccion = descripccion;
+    }
+
+    public String toString(){
+        String r = "Producto nº " +this.numProducto + "......" + precio + "\n";
+        return  r;
     }
 }
