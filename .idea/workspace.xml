@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92e34c07-5ffc-4a62-be0a-df193a789eb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad 8.7/src/Clases/Lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad 8.7/src/Clases/ListaOrdenada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad 8.7/src/Clases/Nodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad 8.7/src/Clases/Nodo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Actividad 8.7/src/Clases/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Actividad 8.7/src/Clases/Producto.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Actividad 8.7/src/Main/Main8_7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+            <state relative-caret-position="653">
+              <caret line="94" column="54" lean-forward="true" selection-start-line="94" selection-start-column="54" selection-end-line="94" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -177,11 +173,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551375837920" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551376717852" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -284,7 +280,7 @@
       <workItem from="1550845141622" duration="9797000" />
       <workItem from="1551104387308" duration="5904000" />
       <workItem from="1551277142240" duration="9795000" />
-      <workItem from="1551363676953" duration="10054000" />
+      <workItem from="1551363676953" duration="10934000" />
     </task>
     <task id="LOCAL-00001" summary="Nueva actividad 8.2">
       <created>1550163937820</created>
@@ -356,11 +352,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551278366361</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="8.7 add">
+      <created>1551375868255</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1551375868255</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62498000" />
+    <option name="totallyTimeSpent" value="63378000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -372,10 +375,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1600" height="875" extended-state="6" />
+    <frame x="0" y="25" width="1600" height="777" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.375" visible="true" weight="0.27477476" />
-      <window_info id="Structure" order="1" sideWeight="0.625" side_tool="true" visible="true" weight="0.27477476" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48453608" visible="true" weight="0.27477476" />
+      <window_info id="Structure" order="1" sideWeight="0.5154639" side_tool="true" visible="true" weight="0.27477476" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -383,7 +386,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32871014" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.9334258" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14701803" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3855756" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -391,7 +394,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4993565" weight="0.32871014" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3259362" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.37720707" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5006435" side_tool="true" weight="0.32871014" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32871014" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32871014" />
@@ -410,6 +413,10 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Actividad 8.3" />
+      <path value="$PROJECT_DIR$/Actividad 8.4" />
+    </ignored-roots>
     <MESSAGE value="Nueva actividad 8.2" />
     <MESSAGE value="Nueva actividad 8.3" />
     <MESSAGE value="Nueva actividad 8.5" />
@@ -418,7 +425,8 @@
     <MESSAGE value="8.6" />
     <MESSAGE value="8.7" />
     <MESSAGE value="8.3 y 8.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.3 y 8.4" />
+    <MESSAGE value="8.7 add" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.7 add" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Desktop/ArrayOrd.java" />
@@ -581,8 +589,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Actividad 8.7/src/Main/Main8_7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="653">
+          <caret line="94" column="54" lean-forward="true" selection-start-line="94" selection-start-column="54" selection-end-line="94" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
