@@ -2,21 +2,21 @@ package Clases;
 
 public class Nodo {
 
-    private int num ;
+    private Producto producto ;
     private Nodo sig;
 
 
-    public Nodo(int n){
-        this.num = n;
+    public Nodo(Producto producto){
+        this.producto = producto;
     }
-    public int getNum() {
-        return  this.num;
+    public Producto getProducto() {
+        return  this.producto;
     }
     public Nodo getSig(){
         return this.sig;
     }
-    public void setNum(int n) {
-        this.num = n;
+    public void setProducto(Producto producto) {
+        this.producto = producto;
     }
     public void setSig(Nodo nodo){
         this.sig = nodo;
