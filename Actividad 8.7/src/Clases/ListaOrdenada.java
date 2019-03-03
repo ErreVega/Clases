@@ -71,7 +71,7 @@ public class ListaOrdenada {
     }
 
 
-    public boolean borrarNodo(Producto producto) {
+    public boolean borrarNodo(Producto producto) throws Exception{
         boolean borrado = false;                    //Booleano que se devolverá.
         if (this.buscaNodo(producto) != null)
             if (this.buscaNodo(producto).getNumProducto() == producto.getNumProducto()) {                    //Si el nodo que se busca se encuentra en la lista
@@ -93,7 +93,7 @@ public class ListaOrdenada {
         return borrado;
     }
 
-    public boolean borrarNodo(int numProducto) {
+    public boolean borrarNodo (int numProducto) throws Exception{
         Producto p1 = new Producto(numProducto);
         return borrarNodo(p1);
     }

@@ -28,13 +28,6 @@ public class Main8_7 {
         float precio;
         String subOp, descripcion;
         Producto p1;
-        Producto p2 = new Producto(2, 20);
-        Producto p3 = new Producto(3,30);
-        Producto p4 = new Producto(4,40);
-
-        l1.insertar(p2);
-        l1.insertar(p3);
-        l1.insertar(p4);
 
         do {
 
@@ -83,20 +76,37 @@ public class Main8_7 {
                     System.out.println(producto);
                     nProd = sc.nextInt();
                     sc.nextLine();
+                    try {
+                        System.out.println(l1.borrarNodo(nProd));
+                    }
+                    catch (Exception cosa) {
+                        System.out.println("\nLista vacia.");
 
-                    System.out.println(l1.borrarNodo(nProd));
+                    }
+
+
+
                     break;
 
                 case 3:
                     System.out.println(producto);
                     nProd = sc.nextInt();
                     sc.nextLine();
-
-                    System.out.println(l1.buscaNodo(nProd));
+                    try {
+                        System.out.println(l1.buscaNodo(nProd));
+                    }
+                    catch (Exception excp) {
+                        System.out.println("\nLista vacia.");
+                    }
                     break;
 
                 case 4:
-                    System.out.println(l1);
+                    try {
+                        System.out.println(l1);
+                    }
+                    catch (Exception excp) {
+                        System.out.println("\nLista vacia.");
+                    }
                     break;
                 case 5:
                     break;
