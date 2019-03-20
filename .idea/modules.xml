@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Actividad 11.1/Actividad 11.1.iml" filepath="$PROJECT_DIR$/Actividad 11.1/Actividad 11.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad 11.2/Actividad 11.2.iml" filepath="$PROJECT_DIR$/Actividad 11.2/Actividad 11.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad 11.3/Actividad 11.3.iml" filepath="$PROJECT_DIR$/Actividad 11.3/Actividad 11.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad 11.4/Actividad 11.4.iml" filepath="$PROJECT_DIR$/Actividad 11.4/Actividad 11.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad 11.5 y 11.6/Actividad 11.5 y 11.6.iml" filepath="$PROJECT_DIR$/Actividad 11.5 y 11.6/Actividad 11.5 y 11.6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Actividad 8.1/Actividad 8.1.iml" filepath="$PROJECT_DIR$/Actividad 8.1/Actividad 8.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Actividad 8.2/Actividad 8.2.iml" filepath="$PROJECT_DIR$/Actividad 8.2/Actividad 8.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Actividad 8.3/Actividad 8.3.iml" filepath="$PROJECT_DIR$/Actividad 8.3/Actividad 8.3.iml" />
@@ -10,6 +15,10 @@
       <module fileurl="file://$PROJECT_DIR$/Actividad 8.6/Actividad 8.6.iml" filepath="$PROJECT_DIR$/Actividad 8.6/Actividad 8.6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Actividad 8.7/Actividad 8.7.iml" filepath="$PROJECT_DIR$/Actividad 8.7/Actividad 8.7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Actividad 9.1/Actividad 9.1.iml" filepath="$PROJECT_DIR$/Actividad 9.1/Actividad 9.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad 9.2/Actividad 9.2.iml" filepath="$PROJECT_DIR$/Actividad 9.2/Actividad 9.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad 9.3/Actividad 9.3.iml" filepath="$PROJECT_DIR$/Actividad 9.3/Actividad 9.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad 9.4/Actividad 9.4.iml" filepath="$PROJECT_DIR$/Actividad 9.4/Actividad 9.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividad 9.5/Actividad 9.5.iml" filepath="$PROJECT_DIR$/Actividad 9.5/Actividad 9.5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clases.iml" filepath="$PROJECT_DIR$/Clases.iml" />
     </modules>
   </component>

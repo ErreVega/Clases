@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class ClaseArray {
 
     private int[] array;
+    private static int nulo = -9;
 
 
     public static void main(String[] args) {
@@ -39,6 +40,34 @@ public class ClaseArray {
     public ClaseArray (int tam) {
         this.array = new int[tam];
     }
+
+    public void ordenaSeleccionDirecta2(){
+
+        int     valMin = this.array[0],
+                indiceMin = 0,
+                aux;
+
+
+
+        for ( int i = 0 ; i < this.array.length; i ++){
+            for ( int j = i ; j < this.array.length; j ++){
+                if (this.array[j] < valMin){
+                    aux = this.array[i];
+                    this.array[i] = this.array[j];
+                    this.array[j] = aux;
+                }
+
+
+
+            }
+
+
+        }
+
+
+    }
+
+
 
 
 
