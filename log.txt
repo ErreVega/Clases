@@ -1,0 +1,286 @@
+commit 7387e53a2b30edb787fe50f5a280e516f5014cec
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Mar 7 16:33:38 2019 +0100
+
+    8.3
+
+commit e7c0ea83cfefbfbeedeba1abc6bcb19b0def7157
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Mar 7 15:32:35 2019 +0100
+
+    workspace
+
+commit ec0b5ecf2c26e15a4145b087b50e608c662cc031
+Author: Erre-Portatil <errevega1991@gmail.com>
+Date:   Sun Mar 3 19:41:05 2019 +0100
+
+    8.7 with excepciones
+
+commit a959af1489b06c8a054ffecb7fbcb83081e3361d
+Author: Erre-Portatil <errevega1991@gmail.com>
+Date:   Sun Mar 3 19:40:29 2019 +0100
+
+    9.1
+
+commit b68a54bb40a1c65b1cd985f9b69e4e828f44fec5
+Author: Erre-Portatil <errevega1991@gmail.com>
+Date:   Sun Mar 3 15:02:27 2019 +0100
+
+    9.1
+
+commit db2052bdafafff509d827b76efca9fd4ffa097be
+Merge: 12f1d8f 061551c
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 28 19:31:45 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox Merge branch 'master'
+
+commit 061551c34a520e05b24edf739ec9c38e00cfcf91
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 28 19:30:31 2019 +0100
+
+    8.3
+
+commit 10dec0386a817380b916d726d1f00d21ccf8004a
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 28 19:28:52 2019 +0100
+
+    8.3
+
+commit 233863ffdc21839a166e9cc7f9ee6d2325a3c9da
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 28 19:21:00 2019 +0100
+
+    8.3
+
+commit dc95b20a9a52fca013d4b56f43b8cf0aace7b427
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 28 19:17:49 2019 +0100
+
+    8.3
+
+commit 521e2a7ade9cdb1f8b32b4edccf3f00e4ceb79cd
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 28 19:11:06 2019 +0100
+
+    8.3 y 8.4
+
+commit b1ee3f96e124ef63af3bde29ef8e62c92a1e7f56
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 28 19:01:04 2019 +0100
+
+    8.3 y 8.4
+
+commit 2d7b219ba5d0189ccac268861d6a49306b9f0274
+Merge: 9e99fe1 c7bf576
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 28 18:44:48 2019 +0100
+
+    Merge branch 'master' of https://github.com/ErreVega/Clases
+
+commit 9e99fe1af73efbfe944bab69a93a19a0d71edf80
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 28 18:44:28 2019 +0100
+
+    8.7 add
+
+commit 12f1d8f2722eb13f5aa7d2f6faac4df2b650be43
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 28 16:46:00 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox Update Default for GNOME copy.xml
+
+commit c7bf576987b0267e1a1818e5d8f51c12fe9a9270
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Wed Feb 27 18:23:45 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox
+
+commit 815f9d2179cf4430eb1549c19353413a8f827b35
+Merge: 3d30824 0c9ea20
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Wed Feb 27 17:01:12 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox Merge branch 'master'
+
+commit 3d308241f55d5086be51835b36fcc110797300d8
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Wed Feb 27 17:01:12 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox Update find.xml
+
+commit 0c9ea20fcda8aa27d290623bddd42ffd3946a83d
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Wed Feb 27 15:39:26 2019 +0100
+
+    8.3 y 8.4
+
+commit e943d304dfef19806b8e688dedc5f76795ca49b5
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Wed Feb 27 15:38:36 2019 +0100
+
+    8.7
+
+commit 1a621d911e90c4d3d75973e38fc2a83d2bbdf114
+Merge: e7f0341 cecbc7b
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Wed Feb 27 15:23:15 2019 +0100
+
+    Merge branch 'master' of https://github.com/ErreVega/Clases
+
+commit e7f0341f25ec332d1e6e3baa71ab9daee641c892
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Wed Feb 27 15:22:50 2019 +0100
+
+    8.6
+
+commit cecbc7b72f41026d402c397a256a0229cca5e618
+Merge: 6b3f5f8 ae5a075
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Mon Feb 25 17:09:32 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox Merge branch 'master'
+
+commit 6b3f5f846f6f71eda7be2ba94ee1c6c00404be74
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Mon Feb 25 15:30:42 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox
+
+commit ae5a07536c1496e59b2b6fe3e46b29fadf4a7959
+Merge: 91a8f14 9c0f16c
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Mon Feb 25 15:22:15 2019 +0100
+
+    Merge branch 'master' of https://github.com/ErreVega/Clases
+
+commit 91a8f14522bca59d3c87f6628682e235cdff615e
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Mon Feb 25 15:21:47 2019 +0100
+
+    Start
+
+commit 9c0f16ced23d0ad1a64700e9a7ce10660e24e254
+Merge: 07d362b 9aba641
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Fri Feb 22 18:43:20 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox Merge branch 'master'
+
+commit 9aba641a0bfceb35df822f55ee13cc65237ab39f
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Fri Feb 22 18:40:35 2019 +0100
+
+    Nueva actividad 8.3 y 8.4
+
+commit f6ce30dc2b1f5830b831746aa1249f87338e5487
+Merge: f1cd6a8 9d1f666
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Fri Feb 22 18:24:34 2019 +0100
+
+    Merge branch 'master' of https://github.com/ErreVega/Clases
+
+commit f1cd6a88b9d665d3090874d35cd48151f91e44e6
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Fri Feb 22 18:23:55 2019 +0100
+
+    Nueva actividad 8.5
+
+commit 07d362b5f53dc4cec15e2e8c6838b4551f66d1f9
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Fri Feb 22 17:29:06 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox Update find.xml
+
+commit 9d1f666eae17fdca6984035520127e5bd1788fe6
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Fri Feb 22 15:59:55 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox Update filetypes.xml
+
+commit 953543f4aa33ee6e553048c3657653ea3154632e
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Fri Feb 22 15:32:05 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox Create vcs.xml
+
+commit 19bb700968b7978115ea7dc0126dd2a25a3c2743
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 21 18:46:23 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox
+
+commit 5fc62aec4b23db7103aefd2c8edc20baf4e7ca36
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 21 16:53:40 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox Update Default for GNOME copy.xml
+
+commit 3c432e7c6bb9db695349f58ca671cc73d19a71d5
+Merge: 57c3237 80c6e73
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Wed Feb 20 18:52:27 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox Merge branch 'master'
+
+commit 4081bb2aace80997153220ba2485e4e42b149b33
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Wed Feb 20 18:47:25 2019 +0100
+
+    Nueva actividad 8.3
+
+commit 80c6e73aa625b86e2db2675748d06d2b029ecfd3
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Wed Feb 20 18:44:36 2019 +0100
+
+    Nueva actividad 8.3
+
+commit 629ac7d8c92c4d64c93b8fc5fa0ff5923f3ac6f9
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Wed Feb 20 18:36:36 2019 +0100
+
+    Nueva actividad 8.2
+
+commit 6b3ef5e4dfd638b36034599c0c25b760d2884807
+Merge: c58b012 b5be61a
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Wed Feb 20 18:25:37 2019 +0100
+
+    Merge branch 'master' of https://github.com/ErreVega/Clases
+
+commit 57c32372848931fab4aac8cffc74bee73f2374cd
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Mon Feb 18 15:58:37 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox Create toStringTemplates.xml
+
+commit c58b012e6f538e2172ee69ae50506e47dfaadf9a
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 14 18:05:37 2019 +0100
+
+    Nueva actividad 8.2
+
+commit b5be61ab7d11081aeb4693f4235951f93f8e4c78
+Merge: 66954fd 6bdd8f9
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 14 17:41:27 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox Merge branch 'master'
+
+commit 66954fd7b5e6ee5bb6caffa666aaa7717919df6d
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 14 17:41:27 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox Delete other.xml, jdk.table.xml, updates.xml
+
+commit 6bdd8f9354010899d446a25b42f95efe5974f3b2
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 14 17:15:57 2019 +0100
+
+    initial commit
+
+commit 835562e434b7ef3a08201451a6d769e58f2240af
+Author: ErreVega <errevega1991@gmail.com>
+Date:   Thu Feb 14 17:05:56 2019 +0100
+
+    IU-2018.3.4 <erre@erre-VirtualBox Create baseRefactoring.xml, project.default.xml, other.xml, Default for GNOME copy.xml, jdk.table.xml, laf.xml, Default.xml, keymap.xml, find.xml, ui.lnf.xml, filetypes.xml, colors.scheme.xml, github.xml, debugger.xml, path.macros.xml, updates.xml
