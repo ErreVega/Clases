@@ -33,4 +33,6 @@ public class PruebaForma {
  * excepto en el objeto f2 que mostraria "Forma" si la clase fuera instanciable.
  *
  *
+ *  http://www.cs.utexas.edu/~cannata/cs345/Class%20Notes/14%20Java%20Upcasting%20Downcasting.htm
+ *
  */
