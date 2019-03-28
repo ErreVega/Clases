@@ -2,19 +2,19 @@ package Clases;
 
 public class Cuadrilatero {
 
-    protected Punto[] puntos;
+    protected Punto a;
+    protected Punto b;
+    protected Punto c;
+    protected Punto d;
 
-    public Cuadrilatero(Punto[] puntos) {
-        this.puntos = puntos;
+    public Cuadrilatero() {
     }
 
-    public Cuadrilatero(Punto p1, Punto p2,Punto p3,Punto p4) {
-        Punto[] arrayPuntos = { p1, p2, p3, p4};
-
-        this.puntos = arrayPuntos;
+    public Cuadrilatero(Punto a, Punto b, Punto c, Punto d) {
+        this.a = a;
+        this.b = b;
+        this.c = c;
+        this.d = d;
     }
 
-//    public double getArea(){
-//        this.puntos[0].distancia(this.puntos[1]);
-//    }
 }
